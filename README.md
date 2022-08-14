@@ -40,13 +40,13 @@ Using a simple python script, the dataset is explored to present the most intere
 │   README.md
 │   
 └───data/
-│   │   xx.csv  
+│   │   apps_ar_reviews_dataset.csv
+|   |   Clean_apps_ar_reviews.csv
 │   
-└───presentation/
-│   │   presentation.pptx
+└───presentation.pptx
 │   
 └───src/
-    │   xx
+    │   Data_Cleaning_of_Reviews.ipynb
 ```
 
 ## Used Libraries
