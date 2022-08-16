@@ -47,6 +47,7 @@ Using a simple python script, the dataset is explored to present the most intere
 │   
 └───src/
     │   Data_Cleaning_of_Reviews.ipynb
+    |   Visualization_of_Reviews.ipynb
 ```
 
 ## Used Libraries
