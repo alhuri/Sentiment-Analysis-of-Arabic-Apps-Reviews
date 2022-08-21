@@ -37,7 +37,7 @@ Using a simple python script, the dataset is explored to present the most intere
 - Reducing the work needed to analyze and extract valuable content from mobile app reviews
 - Get an overall recognition of user requirements and technical issues feedbacks to avoid major programming problems and provide useful knowledge relevant to the app's improvement
 - Discovering packages and functions in python for data manipulation, EDA, and machine learning.
-- Evaluate different models preformance.
+- Evaluate different models performance.
 
 ## Content 
 
