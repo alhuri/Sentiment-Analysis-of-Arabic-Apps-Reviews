@@ -43,8 +43,10 @@ View the data [here](https://github.com/Arb-AppsReview/Arb-AppsReview)
 Using a simple python script, the dataset is explored to present the most interesting and useful insights along with the best machine learning model.
 ### Goals
 - Presenting findings gathered from analysis in a report format.
-- Reducing the work needed to analyze and extract valuable content from mobile
-app reviews
+- Reducing the work needed to analyze and extract valuable content from mobile app reviews
+- Get an overall recognition of user requirements and technical issues feedbacks to avoid major programming problems and provide useful knowledge relevant to the app's improvement
+- study the gap of the user requirements needs between males andfemales and study functional and non-functional issues that every category notes and
+cares about improving
 - Discovering packages and functions in python for data manipulation, EDA, word embedding, and machine learning.
 - Evaluate diffirent models preformance.
 
