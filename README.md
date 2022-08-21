@@ -7,7 +7,8 @@ User reviews in app stores are considered very rich maintenance information text
 ## Dataset Information
 Arb-AppsReview is the first Arabic dataset designed to capture popular review on Google Play store 51k Arabic reviews related to 6 Saudi governmental services apps,
 namely: Tawakkalna, Tetaman, Tabaud, Sehhaty, Mawid, and Sehhah. That can provide an overview of the types of requirements issues users report on the apps. 
-*View the data* [here](https://github.com/Arb-AppsReview/Arb-AppsReview)
+<br />
+<br />*View the data* [here](https://github.com/Arb-AppsReview/Arb-AppsReview)
 
 ### Data Dictionary
 
