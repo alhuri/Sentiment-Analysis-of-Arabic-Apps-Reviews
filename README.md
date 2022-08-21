@@ -51,4 +51,7 @@ Using a simple python script, the dataset is explored to present the most intere
 ```
 
 ## Used Libraries
-- 
+``
+
+## References
+Al-Sarem, Mohammed & Saeed, Faisal & Alshamani, Maha. (2021). Design of an Arabic Google Play Store User Reviews Dataset for Detecting Apps Requirements Issues. 
