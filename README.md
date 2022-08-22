@@ -52,15 +52,20 @@ Using a simple python script, the dataset is explored to present the most intere
 └───presentation.pptx
 │   
 └───src/
-    │   Data_Cleaning_of_Reviews.ipynb
-    |   Visualization_of_Reviews.ipynb
+|    │   Data_Cleaning_and_Preprocessing.ipynb
+|    |   EDA_of_Reviews.ipynb
+|    
+└───font/
+|    │   NotoNaskhArabic-Regular.ttf
+|
 ```
 
-## Used Libraries
-``
 ## Future Work
-- study the gap of the user requirements needs between males andfemales and study functional and non-functional issues that every category notes and
-cares about improving
+- Scrape more recent reviews.
+- Add new apps to the dataset such as( Abser, Nafath, ...etc)
+- Study the gap of the user requirements needs between males and females and study functional and non-functional issues that every category notes and
+cares about improving.
+- Study the satisfaction rate according to the version of the app.
 
 ## References
 Al-Sarem, Mohammed & Saeed, Faisal & Alshamani, Maha. (2021). Design of an Arabic Google Play Store User Reviews Dataset for Detecting Apps Requirements Issues. 
