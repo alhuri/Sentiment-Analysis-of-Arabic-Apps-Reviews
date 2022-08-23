@@ -1,4 +1,4 @@
-# Sentiment-Analysis-of-Arabic-Apps-Reviews
+# Sentiment-Analysis-of-Arabic-Governmental-Services-Apps-Reviews
 Sentiment analysis is useful in review monitoring to automatically characterize the overall feeling or mood of consumers as reflected in web toward a specific App. Tracking app problems depending on reviews sentiment continuously is useful in the process of improving applications and their services. This form of analysis has been widely adopted in customer relations management, especially in the context of complaint management.
 
 ## Value Proposition
@@ -47,13 +47,14 @@ Using a simple python script, the dataset is explored to present the most intere
 │   
 └───data/
 │   │   apps_ar_reviews_dataset.csv
-|   |   Clean_apps_ar_reviews.csv
+|   |   clean_apps_ar_reviews.csv
 │   
 └───presentation.pptx
 │   
 └───src/
 |    │   Data_Cleaning_and_Preprocessing.ipynb
 |    |   EDA_of_Reviews.ipynb
+|    |   Models.ipynb
 |    
 └───font/
 |    │   NotoNaskhArabic-Regular.ttf
@@ -66,6 +67,10 @@ Using a simple python script, the dataset is explored to present the most intere
 - Study the gap of the user requirements needs between males and females and study functional and non-functional issues that every category notes and
 cares about improving.
 - Study the satisfaction rate according to the version of the app.
+- Extract more features such as Size, Installs, Age, Genre
+- Translate non-Arabic reviews
+- Build an interface
+
 
 ## References
 Al-Sarem, Mohammed & Saeed, Faisal & Alshamani, Maha. (2021). Design of an Arabic Google Play Store User Reviews Dataset for Detecting Apps Requirements Issues. 
